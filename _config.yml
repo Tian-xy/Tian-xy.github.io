@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Shunqiang Feng's Homepage"
+title: "Shunqiang Feng"
 title_separator: "-"
 name: &name "Shunqiang Feng"
 description: &description "Shunqiang Feng"
