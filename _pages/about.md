@@ -16,7 +16,13 @@ My research focus on **Mobile Computing & Networking**, **Wireless Sensing**, et
 
 - **University of Virginia**  
   _PhD in Computer Science (Spring 2025 - )_
-  - Specialization in Mobile Computing and Networking
 - **University of Electronic Science and Technology of China**  
   _BEng in Electronic Information Engineering (2020 - 2024)_
-  - Outstanding Graduate with GPA 3.95
+
+## Awards
+
+- **Undergraduate**
+  - Excellent Student Scholarship
+  - National Encouragement Scholarship
+  - Outstanding Graduate
+  - Outstanding Graduation Thesis
