@@ -10,7 +10,7 @@ redirect_from:
 
 I am Shunqiang Feng (冯 顺强 in Chinese), an incoming PhD student in the **Computing Science** Department of **University of Virginia**, starting in the Spring 2025. I am also a member of **WIFX (Wireless-Intelligence-For-Everything)** Lab under the supervision of **[Prof. Qian](https://kunqian.info)**.
 
-My research focus on **Mobile Computing & Networking**, **Wireless Sensing**, etc.
+My research focuses on **Mobile Computing & Networking**, **Wireless Sensing**, etc.
 
 ## Education Background
 
