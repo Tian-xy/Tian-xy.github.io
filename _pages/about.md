@@ -12,14 +12,14 @@ I am Shunqiang Feng (冯 顺强 in Chinese), an incoming PhD student in the **Co
 
 My research focuses on **Mobile Computing & Networking**, **Wireless Sensing**, etc.
 
-## Education Background
+## 🏫 Education Background
 
 - **University of Virginia**  
   _PhD in Computer Science (2025 - )_
 - **University of Electronic Science and Technology of China**  
   _BEng in Electronic Information Engineering (2020 - 2024)_
 
-## Awards
+## 🏆 Awards
 
 - **Undergraduate**
   - Excellent Student Scholarship
