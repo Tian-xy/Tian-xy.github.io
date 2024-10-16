@@ -55,9 +55,10 @@ $sidebar-link-max-width: 250px;
    ========================================================================== */
 $uva-blue: #1f4c88;
 $uva-yellow: #c47a31;
+$girls-color: #ffc0cb;
 
 // $gray: #7a8288;
-$gray: $uva-blue;
+$gray: $girls-color;
 $dark-gray: mix(#000, $gray, 40%);
 $darker-gray: mix(#000, $gray, 60%);
 $light-gray: mix(#fff, $gray, 50%);
@@ -106,7 +107,7 @@ $xing-color: #006567;
 $link-color: $uva-yellow;
 $link-color-hover: mix(#000, $link-color, 25%);
 $link-color-visited: mix(#fff, $link-color, 25%);
-$masthead-link-color: $uva-blue;
+$masthead-link-color: $girls-color;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%);
 
 /*
