@@ -12,7 +12,7 @@ I am Shunqiang Feng (冯 顺强 in Chinese), an incoming PhD student in the **Co
 
 My research focuses on **Mobile Computing & Networking**, **Wireless Sensing**, etc.
 
-Currently, I am conducting remote research under the guidance of Prof. Qian, as my visa is still under administrative processing.
+Currently, as my visa is still under administrative processing, I am conducting remote research under the guidance of Prof. Qian.
 
 ## 🎓 Education Background
 
