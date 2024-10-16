@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar: "prof_pic.jpg"
   name: "Shunqiang Feng"
-  pronouns: "He/Him"
+  pronouns:
   bio: "CS PhD student @UVA"
   location: "China"
   employer: "University of Virginia"
