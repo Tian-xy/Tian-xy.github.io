@@ -20,5 +20,5 @@ I am Xiaoyu Tian (田 晓宇 in Chinese), a graduate student in the **Biomedical
 
 ## 🔍 Internship
 
-- **Second Affiliated Hospital of Chongqing Medical University**
+- **Second Affiliated Hospital of Chongqing Medical University**  
   _Research Assistant (2023.11 - 2024.6)_
