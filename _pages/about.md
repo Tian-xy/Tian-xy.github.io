@@ -14,7 +14,7 @@ I am Xiaoyu Tian (田 晓宇 in Chinese), a graduate student in the **Biomedical
 ## 🎓 Education Background
 
 - **The University of Minnesota Twin Cities**  
-  _MS in Biomedical Engineering (2025 - )_
+  _MS in Biomedical Engineering (2024 - )_
 - **Beijing Normal University**  
   _BSc in Biological Science (2019 - 2023)_
 
